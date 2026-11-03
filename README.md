@@ -25,7 +25,7 @@ I am transitioning my analytical background into Data Analytics, focusing on rel
 ### ⚡ North Carolina EV Infrastructure — Spatial & Coverage Analysis (Tableau / Spatial)
 * **Goal:** Map EV charging station density across North Carolina transit corridors to highlight regional service gaps.
 * **Key Finding:** Uncovered a 40-mile charger coverage bottleneck along eastern transit routes using custom 10-mile spatial buffer radii.
-* **Tech Used:** Tableau Desktop, Spatial Buffer Mapping (`BUFFER()`), Regional GIS Analysis
+* **Tech Used:** Tableau Desktop, R (`tidyverse`, `janitor`), Regional GIS Analysis
 * 📂 [View GitHub Repository](https://github.com/dlclark79-dotcom/nc-ev-charging)
 
 ---
