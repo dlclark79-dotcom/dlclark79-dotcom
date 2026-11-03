@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Douglas Lee Clark 👋
 ### Aspiring Data Analyst | M.S. in Biology
 
 I am transitioning my analytical background into Data Analytics, focusing on relational data modeling, data cleaning, and exploratory analysis using **SQL**, **R**, and **Tableau**.
